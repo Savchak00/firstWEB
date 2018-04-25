@@ -1,0 +1,10 @@
+body #id1 {
+  background-color: black;
+}
+h1{
+  text-align: center;
+  color: inherit;
+}
+body #id2 {
+  background-color: white;
+}

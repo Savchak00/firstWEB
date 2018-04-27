@@ -5,3 +5,26 @@ h1{
   text-align: center;
   color: white;
 }
+table {
+   border: none;
+   width: "100%";
+}
+tr,td{
+  padding: 30px;
+}
+ul {
+  color: white;
+}
+table,td,tr{
+  border : 1px solid white;
+  border-collapse :  collapse;
+}
+a:visited{
+  color: yellow;
+}
+a:hover{
+  color: red;
+}
+a:link{
+  color: white;
+}
